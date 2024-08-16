@@ -12,8 +12,6 @@ Meu nome é Renan Rodrigues e dedico esse perfil aos meus estudos e projetos na 
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="Selenium" src="https://img.shields.io/badge/-SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
     <img align="center" alt="Pytest" src="https://img.shields.io/badge/-PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-    <img align="center" alt="Nodejs" src="https://img.shields.io/badge/-NODE.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -28,7 +26,7 @@ Meu nome é Renan Rodrigues e dedico esse perfil aos meus estudos e projetos na 
 
 
 ## 📚 O que estou estudando no momento:
-Atualmente, estou no módulo de **Node.js** e **Express**, com foco em **Web APIs** e **bancos de dados** através do curso de capacitação **Moto Academy** (em parceria da Motorola com o instituto de pesquisa Eldorado), buscando expandir meu conhecimento no desenvolvimento backend para complementar minhas habilidades em automação de testes.
+Atualmente, estou no módulo de **Node.js** e **Express**, com foco em **Web APIs** e **bancos de dados** através do curso de capacitação **Moto Academy** (parceria da Motorola com o instituto de pesquisa Eldorado), buscando expandir meu conhecimento no desenvolvimento backend para complementar minhas habilidades em automação de testes.
 
 ## 🚀 Objetivo
 
