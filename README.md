@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo ao meu GitHub 🤘
 
-Meu nome é Renan Rodrigues e dedico esse perfil aos meus estudos na área de **Testes de Software**, com foco especial em **automação de testes**. Apesar de ainda não possuir experiência de mercado, venho desenvolvendo habilidades práticas através de projetos e estudos aprofundados.
+Meu nome é Renan Rodrigues e dedico esse perfil aos meus estudos e projetos na área de **Testes de Software**, com foco especial em **automação de testes**.
 
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=reerod&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reerod)](https://github.com/reerod/github-readme-stats)
