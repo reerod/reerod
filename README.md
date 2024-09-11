@@ -3,12 +3,8 @@
 Meu nome é Renan Rodrigues e dedico esse perfil aos meus estudos e projetos na área de **Testes de Software**, com foco especial em **automação de testes**.
 
 ## Stats
-[![Renan Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=reerod)](https://github.com/reerod/github-readme-stats)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reerod&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reerod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reerod&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+[![Renan Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=reerod&show_icons=true&theme=dark)](https://github.com/reerod/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reerod&theme=dark&layout=compact)
 
 ## 🔧 Tecnologias e Ferramentas que utilizo:
 
