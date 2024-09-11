@@ -4,7 +4,7 @@ Meu nome é Renan Rodrigues e dedico esse perfil aos meus estudos e projetos na 
 
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=reerod&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reerod)](https://github.com/reerod/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reerod)(https://github.com/reerod/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reerod)
 
 
 ## 🔧 Tecnologias e Ferramentas que utilizo:
