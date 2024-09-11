@@ -19,21 +19,14 @@ Meu nome é Renan Rodrigues e dedico esse perfil aos meus estudos e projetos na 
 </div>
 
 
-
-## Outras Habilidades:
-  - Base em Fixtures
-  - Testes Funcionais Automatizados com Selenium Webdriver
-
-
-## 📚 O que estou estudando no momento:
-Atualmente, estou no módulo de **Node.js** e **Express**, com foco em **Web APIs** e **bancos de dados** através do curso de capacitação **Moto Academy** (parceria da Motorola com o instituto de pesquisa Eldorado), buscando expandir meu conhecimento no desenvolvimento backend para complementar minhas habilidades em automação de testes.
-
 ## 🚀 Objetivo
 
 Meu foco é aprimorar continuamente minhas habilidades e estar sempre atualizado com as melhores práticas da área de automação de testes. Estou buscando oportunidades de me conectar com outros profissionais e mostrar meu potencial.
 
 ## 📫 Como entrar em contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rerod/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan071199@gmail.com)
+
 ---
 
 Agradeço pela visita ao meu perfil e por dedicar um tempo para conhecer meu trabalho! 😄
