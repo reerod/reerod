@@ -11,6 +11,7 @@ Meu nome é Renan Rodrigues e dedico esse perfil aos meus estudos e projetos na 
 <div>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="Selenium" src="https://img.shields.io/badge/-SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+    <img align="center" alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/>
     <img align="center" alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
     <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </div>
